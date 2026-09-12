@@ -1,0 +1,6 @@
+﻿starter/.venv/
+__pycache__/
+*.pyc
+.bedrock_agentcore.yaml
+.env
+*.log
