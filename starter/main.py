@@ -53,9 +53,9 @@ os.environ["BYPASS_TOOL_CONSENT"] = "true"
 # resources tomorrow. GATEWAY_URL and REGION are already known from setup.
 
 GATEWAY_URL = "https://customersupportgateway-loqbggxjtj.gateway.bedrock-agentcore.us-east-1.amazonaws.com/mcp"
-KB_ID       = "<kbid>"          # TODO: paste your real Knowledge Base ID here
+KB_ID       = "PKQ6QWOAEW"         # TODO: paste your real Knowledge Base ID here
 REGION      = "us-east-1"
-MEMORY_ID   = "<mem_id>"        # TODO: paste your real Memory ID here
+MEMORY_ID   = "CustomerSupportMemory-CbeDocEBD2"    # TODO: paste your real Memory ID here
 
 
 # ── TODO 3 — Model and Clients (DONE) ──────────────────────────────────────────
